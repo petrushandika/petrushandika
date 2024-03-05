@@ -2,7 +2,7 @@
 👋 Hi, I’m @petrushandika!<br>👀 I’m interested in sports and the world of coding.<br>🌱 I’m currently learning to become a fullstack developer.<br>💞️ I’m looking to collaborate on exciting web development projects.<br>📫 How to reach me: Feel free to connect with me on GitHub or reach out via email at [petrushandikasinaga@gmail.com].<br>😄 Pronouns: He/him.<br>⚡ Fun fact: I once combined my love for coding and sports by creating a website that tracks and analyzes sports statistics in real-time!
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/petrushandika) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/petrushandika/) 
 
 # 💻 Tech Stack:
