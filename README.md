@@ -1,12 +1,18 @@
+[![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://rishavchanda.io)
+
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Petrus+Handika!;" />
 </h1>
 
-<h3 align="center">A passionate fullstack developer</h3>
+<h3 align="center">A passionate FullStack Developer</h3>
 
 <br/>
 
-<div align="center">
+<div>
+
+<img align="right" alt="coding" width="15%" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGppd3BucXMxenIzZjR6OG5uZ3IwemZhMTdwMG85aHg1NjdiaWUyNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Ll22OhMLAlVDb8UQWe/giphy_s.gif"/>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=petrushandika&label=Profile%20views&color=0e75b6&style=flat" alt="petrushandika" /> </p>
  
 👀 I’m interested in sports and the world of coding.
 
@@ -19,15 +25,9 @@
  </div>
  
 <div align="center"> 
-  <a href="mailto:petrushandikasinaga@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="https://www.linkedin.com/in/petrushandika/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-  <a href="https://petrushandika.github.io/profile/" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
-  </a>
+    <a href="https://linkedin.com/in/https://www.linkedin.com/in/petrushandika/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/petrushandika/" height="30" width="40" /></a>
+    <a href="https://instagram.com/https://instagram.com/petrushandika" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://instagram.com/petrushandika" height="30" width="40" /></a>
+    <a href="https://twitter.com/petrushandika" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rishavchanda" height="30" width="40" /></a>
 </div>
 
  <hr/>
@@ -111,5 +111,3 @@
 </div>
 
 <hr/>
-
-[![](https://visitcount.itsvg.in/api?id=petrushandika&icon=0&color=0)](https://visitcount.itsvg.in)
