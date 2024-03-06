@@ -1,15 +1,69 @@
-# 💫 About Me:
-👋 Hi, I’m @petrushandika!<br>👀 I’m interested in sports and the world of coding.<br>🌱 I’m currently learning to become a fullstack developer.<br>💞️ I’m looking to collaborate on exciting web development projects.<br>📫 How to reach me: Feel free to connect with me on GitHub or reach out via email at [petrushandikasinaga@gmail.com].<br>😄 Pronouns: He/him.<br>⚡ Fun fact: I once combined my love for coding and sports by creating a website that tracks and analyzes sports statistics in real-time!
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
 
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Petrus+Handika!;" />
+</h1>
 
-# 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/petrushandika) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/petrushandika/) 
+<h3 align="center">A passionate fullstack developer</h3>
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=petrushandika&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-![](https://github-readme-streak-stats.herokuapp.com/?user=petrushandika&theme=tokyonight&hide_border=true)
+<br/>
 
----
-[![](https://visitcount.itsvg.in/api?id=petrushandika&icon=0&color=0)](https://visitcount.itsvg.in)
+<div align="center">
+ 
+👀 I’m interested in sports and the world of coding.
+
+🌱 I’m currently learning to become a fullstack developer.
+
+😄 I’m looking to collaborate on exciting web development projects.
+
+⚡ Fun fact: I once combined my love for coding and sports by creating a website that tracks and analyzes sports statistics in real-time!
+
+ </div>
+ 
+<div align="center"> 
+  <a href="mailto:petrushandikasinaga@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://www.linkedin.com/in/petrushandika/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://petrushandika.github.io/profile/" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+  </a>
+</div>
+
+ <hr/>
+ 
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=c,html,css,bootstrap,javascript,npm,react" /><br>
+    <img src="https://skillicons.dev/icons?i=vscode,notion,figma,wordpress,git,github,mysql,php,go" />
+</div>
+
+<br/>
+<hr/>
+
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
+
+<hr/>
+
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<div align=center>
+  <img width=350 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=petrushandika&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <!-- <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=petrushandika&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" /> -->
+  <img width=350 src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=petrushandika&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</div>
+
+<!-- <div align="center">
+<a href='https://ko-fi.com/V7V4RAK9C' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+</div> -->
+
+<br/>
