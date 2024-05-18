@@ -58,12 +58,16 @@
         <br>JavaScript
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="reactjs" />
-        <br>Reactjs
+        <img src="https://skillicons.dev/icons?i=postgresql" width="48" height="48" alt="javascript" />
+        <br>PostgreSQL
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=wordpress" width="48" height="48" alt="wordpresss" />
-        <br>Wordpress
+        <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="reactjs" />
+        <br>ReactJS
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=expressjs" width="48" height="48" alt="reactjs" />
+        <br>ExpressJS
     </td>
 </tr>
 <tr>
@@ -74,6 +78,10 @@
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="figma" />
         <br>Figma
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=wordpress" width="48" height="48" alt="wordpresss" />
+        <br>Wordpress
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="git" />
@@ -88,12 +96,12 @@
         <br>MySQL
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="php" />
-        <br>PHP
+        <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="go" />
+        <br>NodeJS
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=go" width="48" height="48" alt="go" />
-        <br>Golang
+        <img src="https://skillicons.dev/icons?i=typescript" width="48" height="48" alt="go" />
+        <br>TypeScript
     </td>
 </tr>
 </table>
