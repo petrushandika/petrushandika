@@ -58,7 +58,7 @@
         <br>JavaScript
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=postgresql" width="48" height="48" alt="javascript" />
+        <img src="https://skillicons.dev/icons?i=postgresql" width="48" height="48" alt="postgresql" />
         <br>PostgreSQL
     </td>
     <td align="center" width="96">
@@ -66,8 +66,12 @@
         <br>ReactJS
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=expressjs" width="48" height="48" alt="reactjs" />
+        <img src="https://skillicons.dev/icons?i=expressjs" width="48" height="48" alt="expressjs" />
         <br>ExpressJS
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=prisma" width="48" height="48" alt="prisma" />
+        <br>Prisma
     </td>
 </tr>
 <tr>
@@ -96,12 +100,16 @@
         <br>MySQL
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="go" />
+        <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="nodejs" />
         <br>NodeJS
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=typescript" width="48" height="48" alt="go" />
+        <img src="https://skillicons.dev/icons?i=typescript" width="48" height="48" alt="typescript" />
         <br>TypeScript
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=nestjs" width="48" height="48" alt="nestjs" />
+        <br>NestJS
     </td>
 </tr>
 </table>
