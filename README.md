@@ -76,10 +76,6 @@
 </tr>
 <tr>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="vscode" />
-        <br>VS Code
-    </td>
-    <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="figma" />
         <br>Figma
     </td>
@@ -98,6 +94,10 @@
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="mysql" />
         <br>MySQL
+    </td>
+     <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=vuejs" width="48" height="48" alt="vuejs" />
+        <br>VueJS
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="nodejs" />
