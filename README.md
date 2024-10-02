@@ -73,6 +73,10 @@
         <img src="https://skillicons.dev/icons?i=prisma" width="48" height="48" alt="prisma" />
         <br>Prisma
     </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=golang" width="48" height="48" alt="golang" />
+        <br>Golang
+    </td>
 </tr>
 <tr>
     <td align="center" width="96">
@@ -110,6 +114,10 @@
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=nestjs" width="48" height="48" alt="nestjs" />
         <br>NestJS
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="python" />
+        <br>Python
     </td>
 </tr>
 </table>
