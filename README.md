@@ -1,7 +1,7 @@
-<a href="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnNnZXM2Njg5Y21ibm5nZjFnMHFxMjY2NGltbTRnaGNob2xzY2JpayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif"><img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnNnZXM2Njg5Y21ibm5nZjFnMHFxMjY2NGltbTRnaGNob2xzY2JpayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif" width="100%" alt="MasterHead" /></a>
+<a href="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnNnZXM2Njg5Y21ibm5nZjFnMHFxMjY2NGltbTRnaGNob2xzY2JpayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif"><img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnNnZXM2Njg5Y21ibm5nZjFnMHFxMjY2NGltbTRnaGNob2xzY2JpayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif" width="100%" height="450" style="object-fit: cover; max-height: 450px;" alt="MasterHead" /></a>
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Petrus+Handika!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Petrus+Handika!;" style="max-width: 100%; height: auto;" />
 </h1>
 
 <h2 align="center">A passionate FullStack Developer</h2>
@@ -10,9 +10,9 @@
 
 <div>
 
-<img align="right" alt="coding" width="15%" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGppd3BucXMxenIzZjR6OG5uZ3IwemZhMTdwMG85aHg1NjdiaWUyNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Ll22OhMLAlVDb8UQWe/giphy_s.gif"/>
+<img align="right" alt="coding" width="150" style="max-width: 35%; height: auto; margin-left: 15px;" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGppd3BucXMxenIzZjR6OG5uZ3IwemZhMTdwMG85aHg1NjdiaWUyNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Ll22OhMLAlVDb8UQWe/giphy_s.gif"/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=petrushandika&label=Profile%20views&color=0e75b6&style=flat" alt="petrushandika" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=petrushandika&label=Profile%20views&color=0e75b6&style=flat-square" alt="petrushandika" /> </p>
  
 👀 I’m interested in sports and the world of coding.
 
@@ -30,108 +30,43 @@
     <a href="https://twitter.com/petrushandika" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="petrushandika" height="30" width="40" /></a>
 </div>
 
- <hr/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="4" style="max-width: 100%; height: 4px; display: block; margin: 25px 0;" />
  
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
-<table align="center">
-
-  <tr>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=c" width="48" height="48" alt="c" />
-        <br>C
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="html" />
-        <br>HTML
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
-        <br>CSS
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="tailwind" />
-        <br>Tailwind
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=javascript" width="48" height="48" alt="javascript" />
-        <br>JavaScript
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=postgresql" width="48" height="48" alt="postgresql" />
-        <br>PostgreSQL
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="reactjs" />
-        <br>ReactJS
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=expressjs" width="48" height="48" alt="expressjs" />
-        <br>ExpressJS
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=prisma" width="48" height="48" alt="prisma" />
-        <br>Prisma
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=golang" width="48" height="48" alt="golang" />
-        <br>Golang
-    </td>
-</tr>
-<tr>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="figma" />
-        <br>Figma
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=wordpress" width="48" height="48" alt="wordpresss" />
-        <br>Wordpress
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="git" />
-        <br>Git
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="github" />
-        <br>Github
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="mysql" />
-        <br>MySQL
-    </td>
-     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=vuejs" width="48" height="48" alt="vuejs" />
-        <br>VueJS
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="nodejs" />
-        <br>NodeJS
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=typescript" width="48" height="48" alt="typescript" />
-        <br>TypeScript
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=nestjs" width="48" height="48" alt="nestjs" />
-        <br>NestJS
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="python" />
-        <br>Python
-    </td>
-</tr>
-</table>
+<div align="center">
+    <kbd><img src="https://skillicons.dev/icons?i=c" width="22" height="22" align="center" alt="c" /> C</kbd> &nbsp;
+    <kbd><img src="https://skillicons.dev/icons?i=html" width="22" height="22" align="center" alt="html" /> HTML</kbd> &nbsp;
+    <kbd><img src="https://skillicons.dev/icons?i=css" width="22" height="22" align="center" alt="css" /> CSS</kbd> &nbsp;
+    <kbd><img src="https://skillicons.dev/icons?i=tailwind" width="22" height="22" align="center" alt="tailwind" /> Tailwind</kbd> &nbsp;
+    <kbd><img src="https://skillicons.dev/icons?i=javascript" width="22" height="22" align="center" alt="javascript" /> JavaScript</kbd> &nbsp;
+    <kbd><img src="https://skillicons.dev/icons?i=postgresql" width="22" height="22" align="center" alt="postgresql" /> PostgreSQL</kbd> &nbsp;
+    <kbd><img src="https://skillicons.dev/icons?i=react" width="22" height="22" align="center" alt="react" /> ReactJS</kbd> &nbsp;
+    <kbd><img src="https://skillicons.dev/icons?i=express" width="22" height="22" align="center" alt="express" /> ExpressJS</kbd> &nbsp;
+    <kbd><img src="https://skillicons.dev/icons?i=prisma" width="22" height="22" align="center" alt="prisma" /> Prisma</kbd> &nbsp;
+    <kbd><img src="https://skillicons.dev/icons?i=golang" width="22" height="22" align="center" alt="golang" /> Golang</kbd>
+    <br/><br/>
+    <kbd><img src="https://skillicons.dev/icons?i=figma" width="22" height="22" align="center" alt="figma" /> Figma</kbd> &nbsp;
+    <kbd><img src="https://skillicons.dev/icons?i=wordpress" width="22" height="22" align="center" alt="wordpress" /> WordPress</kbd> &nbsp;
+    <kbd><img src="https://skillicons.dev/icons?i=git" width="22" height="22" align="center" alt="git" /> Git</kbd> &nbsp;
+    <kbd><img src="https://skillicons.dev/icons?i=github" width="22" height="22" align="center" alt="github" /> GitHub</kbd> &nbsp;
+    <kbd><img src="https://skillicons.dev/icons?i=mysql" width="22" height="22" align="center" alt="mysql" /> MySQL</kbd> &nbsp;
+    <kbd><img src="https://skillicons.dev/icons?i=vue" width="22" height="22" align="center" alt="vue" /> VueJS</kbd> &nbsp;
+    <kbd><img src="https://skillicons.dev/icons?i=nodejs" width="22" height="22" align="center" alt="nodejs" /> NodeJS</kbd> &nbsp;
+    <kbd><img src="https://skillicons.dev/icons?i=typescript" width="22" height="22" align="center" alt="typescript" /> TypeScript</kbd> &nbsp;
+    <kbd><img src="https://skillicons.dev/icons?i=nestjs" width="22" height="22" align="center" alt="nestjs" /> NestJS</kbd> &nbsp;
+    <kbd><img src="https://skillicons.dev/icons?i=python" width="22" height="22" align="center" alt="python" /> Python</kbd>
+</div>
 
 <br/>
 
-<hr/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="4" style="max-width: 100%; height: 4px; display: block; margin: 25px 0;" />
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
-<div align=center>
-  <img width="450" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=petrushandika&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <!-- <img width=350 src="https://github-readme-stats-salesp07.vercel.app/api?username=petrushandika&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" /> -->
-  <img width=325 src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=petrushandika&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+<div align="center">
+  <img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=petrushandika&count_private=true&theme=react&border_radius=10" style="max-width: 100%; height: auto; margin: 10px;" alt="streak stats" />
+  <img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=petrushandika&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" style="max-width: 100%; height: auto; margin: 10px;" alt="top langs" />
 </div>
 
-<hr/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="4" style="max-width: 100%; height: 4px; display: block; margin: 25px 0;" />
